@@ -1,0 +1,8 @@
+.env
+accounts/*.json
+accounts/*.csv
+*.key
+__pycache__/
+.venv/
+proxies.txt
+.ruff_cache/
